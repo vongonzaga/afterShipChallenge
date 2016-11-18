@@ -1,1 +1,5 @@
-# A small project I made for the Aftership Challenge. Enjoy viewing!
+# AfterShip-Online-Challenge
+This is my solution to the AfterShip online challenge
+
+
+Enjoy!
