@@ -1,1 +1,1 @@
-# afterShipChallenge
+# This is a small project I made for the Aftership Challenge. Used it as practice for using git as well. Enjoy viewing!
